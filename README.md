@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sterlyn-t
 - 👀 I’m interested in Fullstack Development, Game Development and Blockchain Development.
-- 🌱 I’m currently learning Blockchain Development and Machine Learning.
+- 🌱 I’m currently learning Blockchain Development.
 
 
 <!---
